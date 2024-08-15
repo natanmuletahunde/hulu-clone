@@ -10,7 +10,7 @@ const placeholderMovies = [
   {
     id: 1,
     title: "Avengers",
-    image: "/assets/avenger.jpg",
+    image: "/assets/avengers.jpg",
     description: "Avengers follows a team of heroes as they unite to prevent an impending cosmic threat from an infamous villain. Each member brings their unique powers and skills to the fight."
   },
   {
@@ -51,9 +51,9 @@ const placeholderMovies = [
   },
   {
     id: 8,
-    title: "Bage",
-    image: "/assets/bage.jpg",
-    description: "Bage dives into the world of a rogue assassin who finds redemption through unexpected alliances while navigating a treacherous underworld filled with danger."
+    title: "Blage",
+    image: "/assets/blage.jpg",
+    description: "Blage dives into the world of a rogue assassin who finds redemption through unexpected alliances while navigating a treacherous underworld filled with danger."
   },
   {
     id: 9,
